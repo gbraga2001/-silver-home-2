@@ -38,7 +38,7 @@ nav li a{
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-        font-family: 'Poppins', sans-serif;
+        font-family:after 'Poppins', sans-serif;
     }
     nav{
         background-color: #18929D;
@@ -247,9 +247,9 @@ nav li a:hover{
     @keyframes vibrar {
         0%{
             transform: scale(1);
-        }.adquirir {
+        } adquirir {
             display: block;
-            width: 200px;
+            width; 200px;
             height: 50px;
             background-color: blue;
             color: white;
